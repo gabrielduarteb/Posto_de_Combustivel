@@ -1,4 +1,5 @@
 Explicação do projeto — Sistema de Posto de Combustível
+
 Visão geral
 
 Este projeto é uma simulação simples de um posto de combustível escrita em Python, organizada em arquivos separados para cada responsabilidade. Ele demonstra os pilares da Programação Orientada a Objetos (abstração, encapsulamento, herança e polimorfismo) e aplica os padrões de projeto Factory e Strategy. Também há uso do Singleton para gerenciar o estoque.
